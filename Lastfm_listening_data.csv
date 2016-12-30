@@ -1,0 +1,235 @@
+u_id,time,artist_id,artist_name,track_id,track_name
+user_000031,2009-05-01 10:37:23,9c1ff574-2ae4-4fea-881f-83293d0d5881,...And You Will Know Us By The Trail Of Dead,fe8be4ac-bbe8-48f3-bcac-25f45cb7d75e,Source Tags And Codes
+user_000291,2009-05-01 09:02:09,6aa40207-fec8-43a7-991d-b872a42def05,Amy Macdonald,21bd2851-63a2-455b-800b-ea1aa4900a99,This Is The Life
+user_000291,2009-05-01 09:05:37,83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,feecff58-8ee2-4a7f-ac23-dc8ce7925286,Wish You Were Here
+user_000291,2009-05-01 09:12:12,83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,2d982a74-a21a-4714-9d81-405ede915053,Comfortably Numb
+user_000291,2009-05-01 09:22:06,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,U2,44135d7f-f5d6-4ef9-8518-ed11f5b705e7,One
+user_000291,2009-05-01 09:26:56,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,U2,60d2d681-18c5-4639-8f6a-69a2ba4c5ed1,Beautiful Day
+user_000291,2009-05-01 09:31:22,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,U2,94a2565f-9dd3-46bd-a70f-80c41224f561,"Stay (Faraway, So Close!)"
+user_000291,2009-05-01 09:36:35,a41ac10f-0a56-4672-9161-b83f9b223559,Van Morrison,8d69d3fc-5e0e-4c84-97eb-1891ca0d66e8,Brown Eyed Girl
+user_000291,2009-05-01 09:40:30,d4d17620-fd97-4574-92a8-a2cb7e72ce42,The Verve,8b6d9029-1990-4660-bd57-24b5bc0fb626,Bitter Sweet Symphony
+user_000291,2009-05-01 09:46:35,a81259a0-a2f5-464b-866e-71220f2739f1,Zz Top,cd3f5efa-bc5e-4064-a765-960494ad4bb4,La Grange
+user_000291,2009-05-01 09:50:32,a4e34a43-d8de-48eb-9ec6-349b62756590,T?l?phone,171ad8ee-51ae-48c3-ae30-35436b2411af,Un Autre Monde
+user_000291,2009-05-01 09:55:04,9c9f1380-2516-4fc9-a3e6-f9f61941d090,Muse,c1014fda-63d0-4496-8695-18d325cf3387,Unintended
+user_000291,2009-05-01 09:59:44,3ac2a4a2-52b3-498b-bbc8-31443c68dfe0,Missy Higgins,09a0040e-fd69-4dc9-aa1f-22311108a964,The River
+user_000291,2009-05-01 10:04:08,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,82eda381-2e04-4ee8-b195-9cb7e948a614,Come Together
+user_000291,2009-05-01 10:08:26,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,fdae8b76-f5b8-4458-bf32-81885000980b,Something
+user_000291,2009-05-01 10:11:29,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,210005fc-3b04-4112-9b39-5741244f71c7,Maxwell'S Silver Hammer
+user_000291,2009-05-01 10:14:57,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,c39b2a1e-3007-4185-ae53-c107af88fc30,Oh! Darling
+user_000291,2009-05-01 10:18:23,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,a0a8de0d-ddac-4623-a006-d290cbc8f969,Octopus'S Garden
+user_000291,2009-05-01 10:21:14,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,0e8bf76c-fa85-4fb6-b16f-3872d225a0ec,I Want You (She'S So Heavy)
+user_000291,2009-05-01 10:29:02,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,7ea0d658-b2a9-4a8d-a346-48fb2b8acf6a,Here Comes The Sun
+user_000291,2009-05-01 11:08:47,7952b266-9fd4-4a09-a324-7dc84f11b5fc,The John Butler Trio,ba7ed38e-f5b0-438c-9df3-d5e061c353dd,Ocean
+user_000291,2009-05-01 11:20:36,7952b266-9fd4-4a09-a324-7dc84f11b5fc,The John Butler Trio,97a521ad-9036-408b-9572-e1d63b872e06,What You Want
+user_000355,2009-05-01 21:14:57,ee459bd7-9768-4cc2-9452-a09700c4aeaa,Shy Fx,76645d16-0080-4c05-b431-3a197e747d6a,Bambaata Back To The Core
+user_000521,2009-05-01 07:38:54,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,af6bcc2c-8f74-42c5-a4b2-a58aba809279,Drei Chinesen
+user_000521,2009-05-01 07:43:29,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,69f27c3f-4630-4b44-965c-6651903bb839,Weisser Rauch
+user_000521,2009-05-01 08:53:00,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,af6bcc2c-8f74-42c5-a4b2-a58aba809279,Drei Chinesen
+user_000521,2009-05-01 08:57:36,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,69f27c3f-4630-4b44-965c-6651903bb839,Weisser Rauch
+user_000521,2009-05-01 09:03:04,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,a7b06c0e-c6d8-40af-9bb6-5e8c94faba17,Haschisch Kakalake
+user_000521,2009-05-01 09:07:14,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,5f9d7f2e-8c5f-4753-a278-6d51f5b72c9a,Letzte Nacht
+user_000521,2009-05-01 09:11:29,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,5f9d7f2e-8c5f-4753-a278-6d51f5b72c9a,Letzte Nacht
+user_000521,2009-05-01 09:17:08,6ffb8ea9-2370-44d8-b678-e9237bbd347b,Kings Of Leon,051caac1-1f67-4733-80b5-62cb32660daa,Sex On Fire
+user_000521,2009-05-01 09:20:32,6ffb8ea9-2370-44d8-b678-e9237bbd347b,Kings Of Leon,787d77e9-dac1-4ae3-a5f4-0ebba532f362,Use Somebody
+user_000521,2009-05-01 09:31:11,64b58850-3d5d-48cb-82be-74921fb5ecdf,Family Force 5,04a52eb5-0e96-4da8-a32b-383d4b61de48,Earthquake
+user_000521,2009-05-01 09:49:47,64b58850-3d5d-48cb-82be-74921fb5ecdf,Family Force 5,04a52eb5-0e96-4da8-a32b-383d4b61de48,Earthquake
+user_000521,2009-05-01 09:52:52,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,af6bcc2c-8f74-42c5-a4b2-a58aba809279,Drei Chinesen
+user_000521,2009-05-01 09:57:28,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,69f27c3f-4630-4b44-965c-6651903bb839,Weisser Rauch
+user_000521,2009-05-01 18:30:19,a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0,Fischerspooner,3eb75675-0f13-4973-bed2-ddfeb59dd4da,Never Win
+user_000521,2009-05-01 18:49:24,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,af6bcc2c-8f74-42c5-a4b2-a58aba809279,Drei Chinesen
+user_000521,2009-05-01 18:53:52,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,69f27c3f-4630-4b44-965c-6651903bb839,Weisser Rauch
+user_000521,2009-05-01 18:59:21,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,a7b06c0e-c6d8-40af-9bb6-5e8c94faba17,Haschisch Kakalake
+user_000521,2009-05-01 19:03:08,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,5f9d7f2e-8c5f-4753-a278-6d51f5b72c9a,Letzte Nacht
+user_000521,2009-05-01 19:07:26,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,5f9d7f2e-8c5f-4753-a278-6d51f5b72c9a,Letzte Nacht
+user_000521,2009-05-01 19:11:32,64b58850-3d5d-48cb-82be-74921fb5ecdf,Family Force 5,04a52eb5-0e96-4da8-a32b-383d4b61de48,Earthquake
+user_000521,2009-05-01 19:14:47,cf6e878f-4ad1-4b32-a105-f832c69a4f51,Milow,019416dc-ca6c-4f59-9ca6-c170bf0bcfc6,Ayo Technology
+user_000521,2009-05-01 19:18:25,6ffb8ea9-2370-44d8-b678-e9237bbd347b,Kings Of Leon,051caac1-1f67-4733-80b5-62cb32660daa,Sex On Fire
+user_000521,2009-05-01 19:21:47,6ffb8ea9-2370-44d8-b678-e9237bbd347b,Kings Of Leon,787d77e9-dac1-4ae3-a5f4-0ebba532f362,Use Somebody
+user_000521,2009-05-01 19:40:53,64b58850-3d5d-48cb-82be-74921fb5ecdf,Family Force 5,04a52eb5-0e96-4da8-a32b-383d4b61de48,Earthquake
+user_000521,2009-05-01 19:43:58,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,af6bcc2c-8f74-42c5-a4b2-a58aba809279,Drei Chinesen
+user_000521,2009-05-01 19:48:35,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,69f27c3f-4630-4b44-965c-6651903bb839,Weisser Rauch
+user_000521,2009-05-01 19:54:02,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,a7b06c0e-c6d8-40af-9bb6-5e8c94faba17,Haschisch Kakalake
+user_000521,2009-05-01 19:57:49,5c7b93be-009c-4d3d-8e1b-a97aaf78531f,Creme De La Creme,5f9d7f2e-8c5f-4753-a278-6d51f5b72c9a,Letzte Nacht
+user_000524,2009-05-01 07:34:07,f443a331-2623-4d50-8797-bfb204850253,Pure Reason Revolution,8357903c-dce5-452a-96b4-2d5fdf6b4a89,Goshen'S Remains
+user_000524,2009-05-01 07:37:19,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,022e86c3-e08f-4ac3-b5d0-209cc993f9fe,Meds
+user_000524,2009-05-01 07:43:41,169c4c28-858e-497b-81a4-8bc15e0026ea,Porcupine Tree,9e6f9552-2a04-4988-ac8d-2f9223e74146,Glass Arm Shattering
+user_000524,2009-05-01 07:47:56,41a94033-8b12-4c60-a22c-38c78801e363,Fujiya & Miyagi,60d5bc16-0b7d-4aa5-86d8-bb0e5272b0b0,Collarbone
+user_000524,2009-05-01 16:34:16,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,4c2b6a4e-0e03-4516-bb24-4e614a4ac63c,God Only Knows (Stereo)
+user_000524,2009-05-01 16:37:32,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,ed052c50-4f33-4548-b36c-401740fec687,Don'T Talk (Put Your Head On My Shoulder)
+user_000524,2009-05-01 16:40:41,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,1cd8d385-3093-4d33-8ba1-51407bad516d,Sloop John B
+user_000524,2009-05-01 16:43:41,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,5f6ef504-6f64-4201-85d1-1904836973ec,God Only Knows
+user_000524,2009-05-01 16:46:53,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,b4e11510-1c22-445b-846b-cf01cc34fb87,Wouldn'T It Be Nice
+user_000524,2009-05-01 16:49:29,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,c8f98476-1fb0-442d-8e3a-cdcf6fc64ea1,Surfin' Usa
+user_000524,2009-05-01 16:51:57,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,9d1ad951-e1c3-4c17-ac05-47e7df4c900d,I Get Around
+user_000524,2009-05-01 16:54:12,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,6b862186-12aa-42ed-aad4-5568c8dea405,Barbara Ann
+user_000524,2009-05-01 16:56:17,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,5f6ef504-6f64-4201-85d1-1904836973ec,God Only Knows
+user_000524,2009-05-01 17:02:05,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,1b2d5daa-f7ef-4f88-beba-9d117b60fbad,"Help Me, Rhonda"
+user_000524,2009-05-01 17:04:52,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,2ae62df7-6f29-4faa-b803-8a3bcca48d01,"Kiss Me, Baby"
+user_000524,2009-05-01 17:07:29,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,9d1ad951-e1c3-4c17-ac05-47e7df4c900d,I Get Around
+user_000524,2009-05-01 17:09:44,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,65bba172-dc83-462f-baed-e15b27ccfad7,Don'T Worry Baby
+user_000524,2009-05-01 17:13:25,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,ab060d72-6771-4f51-b671-e6d2541b5238,Good Vibrations
+user_000524,2009-05-01 17:17:20,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,1cd8d385-3093-4d33-8ba1-51407bad516d,Sloop John B
+user_000524,2009-05-01 17:20:43,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,6b862186-12aa-42ed-aad4-5568c8dea405,Barbara Ann
+user_000524,2009-05-01 17:22:56,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,5f6ef504-6f64-4201-85d1-1904836973ec,God Only Knows
+user_000524,2009-05-01 17:25:49,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,b4e11510-1c22-445b-846b-cf01cc34fb87,Wouldn'T It Be Nice
+user_000524,2009-05-01 17:32:12,9fa07bb4-8312-4cd7-a19a-4fdbc5797148,Okkervil River,c0cd584a-257a-4455-9fcf-f87eb8952699,Savannah Smiles
+user_000524,2009-05-01 17:35:51,024c3b90-9d09-4c67-902f-fdf49649e4f8,L'?me Immortelle,d7efd6f3-0503-4bba-a4d6-277b313f8d79,Fallen Angel
+user_000524,2009-05-01 17:40:54,0039c7ae-e1a7-4a7d-9b49-0cbc716821a6,Death Cab For Cutie,a5741d3d-c925-4070-8a83-910d23eb33d4,I Will Follow You Into The Dark
+user_000524,2009-05-01 17:44:04,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,Evanescence,0e81bea2-ab0b-4c4e-b8b9-a4d95fffcee8,Hello
+user_000524,2009-05-01 17:47:44,2eada8f8-056a-4093-bbc2-004909ce743b,Broken Social Scene,12bdd6cc-0b5d-43d6-936f-caf18797141a,Anthems For A Seventeen Year-Old Girl
+user_000524,2009-05-01 17:52:20,99a18561-8a7d-4c30-8d3b-31bdf8c4b8ed,Heatmiser,b75f61ce-1e39-45e2-bf89-fb5cfbca10e2,Half Right
+user_000524,2009-05-01 18:07:12,bbc5b66b-d037-4f26-aecf-0b129e7f876a,Jimmy Eat World,e241430e-afcc-4855-80d6-3bc76fba1dd0,23
+user_000524,2009-05-01 18:14:26,bbc5b66b-d037-4f26-aecf-0b129e7f876a,Jimmy Eat World,0fe3d4a4-eaf6-4d2e-80c7-a995f0debd3a,Kill
+user_000524,2009-05-01 18:18:19,ba0d6274-db14-4ef5-b28d-657ebde1a396,The Smashing Pumpkins,ed3bfa34-7b15-4853-b777-0daf549dedd8,Mayonaise
+user_000524,2009-05-01 18:24:09,6d7b7cd4-254b-4c25-83f6-dd20f98ceacd,M83,88e30d49-ae99-47d0-a204-682b9f62131a,In The Cold I'M Standing
+user_000524,2009-05-01 18:28:27,ba0d6274-db14-4ef5-b28d-657ebde1a396,The Smashing Pumpkins,7d4b6488-d906-4d23-89f8-b6ca8fd8b843,Luna
+user_000524,2009-05-01 18:31:47,bbc5b66b-d037-4f26-aecf-0b129e7f876a,Jimmy Eat World,1deb467a-4b9b-4894-b450-3e2315383a29,Disintegration
+user_000524,2009-05-01 18:39:34,bbc5b66b-d037-4f26-aecf-0b129e7f876a,Jimmy Eat World,e241430e-afcc-4855-80d6-3bc76fba1dd0,23
+user_000524,2009-05-01 18:46:51,83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,feecff58-8ee2-4a7f-ac23-dc8ce7925286,Wish You Were Here
+user_000524,2009-05-01 18:52:13,169c4c28-858e-497b-81a4-8bc15e0026ea,Porcupine Tree,670a905c-1236-4114-9a6b-26785c8b6457,Heartattack In A Layby
+user_000524,2009-05-01 18:56:28,169c4c28-858e-497b-81a4-8bc15e0026ea,Porcupine Tree,7369511a-0d59-4fd6-93a3-fb241c15b59a,Collapse The Light Into Earth
+user_000524,2009-05-01 19:02:21,2f548675-008d-4332-876c-108b0c7ab9c5,Sia,2fe73d9b-a345-4673-b09f-1a67eca27b94,Breathe Me
+user_000524,2009-05-01 19:07:05,e9dfc148-d5f6-425e-b80b-f99ed2bd7c09,God Is An Astronaut,dadf7bfe-19db-47f3-b0ff-7fa602ea4dcc,Forever Lost
+user_000524,2009-05-01 19:25:39,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,ab060d72-6771-4f51-b671-e6d2541b5238,Good Vibrations
+user_000524,2009-05-01 19:29:34,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,6b862186-12aa-42ed-aad4-5568c8dea405,Barbara Ann
+user_000524,2009-05-01 19:31:47,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,5f6ef504-6f64-4201-85d1-1904836973ec,God Only Knows
+user_000524,2009-05-01 19:35:25,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,43e513f5-6354-4fb0-b570-87811455c7ad,"Help Me, Rhonda (Single Version)"
+user_000524,2009-05-01 19:38:32,ebfc1398-8d96-47e3-82c3-f782abcdb13d,The Beach Boys,ed052c50-4f33-4548-b36c-401740fec687,Don'T Talk (Put Your Head On My Shoulder)
+user_000524,2009-05-01 19:42:14,be540c02-7898-4b79-9acc-c8122c7d9e83,Pet Shop Boys,682040b8-8e57-4b24-9844-4526d17dd394,Always On My Mind
+user_000524,2009-05-01 19:46:09,be540c02-7898-4b79-9acc-c8122c7d9e83,Pet Shop Boys,1ef2ee95-28a1-4da2-8609-d0cfd03f9f63,It'S A Sin
+user_000524,2009-05-01 19:51:09,be540c02-7898-4b79-9acc-c8122c7d9e83,Pet Shop Boys,f6170474-19d4-4df6-a7e0-554dac0cd570,Go West
+user_000524,2009-05-01 19:56:14,8ac6cc32-8ddf-43b1-9ac4-4b04f9053176,Alien Ant Farm,a5411146-269c-40b3-8da2-b6b3aa4bbcd0,Smooth Criminal
+user_000524,2009-05-01 20:00:10,8ac6cc32-8ddf-43b1-9ac4-4b04f9053176,Alien Ant Farm,f13d8aae-76dc-47ce-97e2-e7c445ddce29,Movies
+user_000524,2009-05-01 20:03:40,20244d07-534f-4eff-b4d4-930878889970,Taylor Swift,d2abeeb7-bfed-4ae1-b53e-8bdb64f832a7,Love Story
+user_000524,2009-05-01 20:07:50,0f1de5a3-bdb4-47ee-82d0-59e2ac37d358,Dope Stars Inc.,822a756d-09d8-4ae7-be0b-18750c394a98,Make A Star (After Party Mix By The Birthday Massacre)
+user_000524,2009-05-01 20:12:24,0f1de5a3-bdb4-47ee-82d0-59e2ac37d358,Dope Stars Inc.,c4396017-bcf6-4036-b30d-9612ca131e0c,Make A Star
+user_000524,2009-05-01 20:18:11,83d8a06a-4145-444a-b4ae-49e1e986206f,The Birthday Massacre,afb30507-8158-4b33-a1fa-8fa9c2c0774b,Blue
+user_000524,2009-05-01 20:22:42,bbc5b66b-d037-4f26-aecf-0b129e7f876a,Jimmy Eat World,d6b4147c-2a9b-4f34-974e-4ef9979442ec,Gotta Be Somebody'S Blues
+user_000524,2009-05-01 20:27:35,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,8dcb8ee5-1cc8-49cc-a2fa-2b5d8d514853,Post Blue
+user_000524,2009-05-01 20:31:02,83d8a06a-4145-444a-b4ae-49e1e986206f,The Birthday Massacre,324d25fe-ad6c-41c9-a3fa-f3ef5daa1454,Happy Birthday
+user_000524,2009-05-01 20:34:43,83d8a06a-4145-444a-b4ae-49e1e986206f,The Birthday Massacre,44aa0260-8d51-4754-a62c-4e827d5f86e7,Science
+user_000524,2009-05-01 20:38:47,83d8a06a-4145-444a-b4ae-49e1e986206f,The Birthday Massacre,afb30507-8158-4b33-a1fa-8fa9c2c0774b,Blue
+user_000524,2009-05-01 20:43:18,83d8a06a-4145-444a-b4ae-49e1e986206f,The Birthday Massacre,a452b96f-1280-42bc-906e-ee3161cd8911,Walking With Strangers
+user_000524,2009-05-01 20:47:13,83d8a06a-4145-444a-b4ae-49e1e986206f,The Birthday Massacre,e53a7aa2-735a-413b-80dc-eb8538564499,Falling Down
+user_000524,2009-05-01 20:59:19,8179e236-86df-459f-bd51-0107138d0a6a,Global Communication,aa4bd098-d031-44e4-bbb8-2e7d5906b24a,4 02
+user_000524,2009-05-01 21:33:09,20244d07-534f-4eff-b4d4-930878889970,Taylor Swift,d2abeeb7-bfed-4ae1-b53e-8bdb64f832a7,Love Story
+user_000524,2009-05-01 21:39:51,0f1de5a3-bdb4-47ee-82d0-59e2ac37d358,Dope Stars Inc.,822a756d-09d8-4ae7-be0b-18750c394a98,Make A Star (After Party Mix By The Birthday Massacre)
+user_000524,2009-05-01 21:44:25,d47c5ac6-f45c-4982-ae23-0d72fe35a503,Funker Vogt,61963b3a-67e7-4d7f-8568-e4d18d1fe5b1,Fallen Hero (Jekyll & Hyde Remix By The Birthday Massacre)
+user_000535,2009-05-01 15:17:04,8538e728-ca0b-4321-b7e5-cff6565dd4c0,Depeche Mode,36bd6333-0ad9-419b-817c-48bb6fb874ef,Jezebel
+user_000573,2009-05-01 20:29:50,101e0102-841f-4858-972b-edf716ee67c9,Flunk,13761d4f-3613-4f5c-a0a5-d1137d19d540,Change My Ways
+user_000611,2009-05-01 09:41:17,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,71209300-34e5-491d-81ad-76237d167604,Ace Of Spades
+user_000611,2009-05-01 09:44:08,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,00257dec-df2c-4f79-a8b7-43ec602741c5,Love Me Like A Reptile
+user_000611,2009-05-01 09:47:20,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,79844532-d214-4cfd-a2ab-11c3c56311c0,Shoot You In The Back
+user_000611,2009-05-01 09:49:53,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,8dba3696-c912-4276-aba6-78c16dd7e455,Live To Win
+user_000611,2009-05-01 09:53:30,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,1e6bb717-4c1e-44eb-9409-5f10b3de1a6b,Fast And Loose
+user_000611,2009-05-01 09:56:14,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,780d454d-13de-45d4-abd7-077ec798daf8,(We Are) The Road Crew
+user_000611,2009-05-01 09:59:36,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,901fb476-ecf9-4c78-9afb-03e6540f6d34,Fire Fire
+user_000611,2009-05-01 10:01:43,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,d18247da-83b6-4d97-ad9c-fe86f6ec2e4b,Jailbait
+user_000611,2009-05-01 10:05:17,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,70af0d8d-b69a-466d-bd7f-c904f70a6a46,Dance
+user_000611,2009-05-01 10:07:56,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,a65a9882-14a0-4879-b950-9daca2682b89,Bite The Bullet
+user_000611,2009-05-01 10:09:35,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,9d5bda0f-c14a-4cf6-8793-248cae7da317,The Chase Is Better Than The Catch
+user_000611,2009-05-01 10:12:51,57961a97-3796-4bf7-9f02-a985a8979ae9,Mot?rhead,0e09c708-b028-45c6-b93a-392777935399,The Hammer
+user_000611,2009-05-01 10:15:38,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,e6e2ffe7-53af-4a83-a226-338ac2e93896,Forsaken World
+user_000611,2009-05-01 10:16:37,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,fc5d1d80-e1ea-4b9e-a151-16f6c0b1878c,Roll The Bone
+user_000611,2009-05-01 10:21:05,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,947543bf-41fe-4812-81e4-69f0baac7075,Holy War
+user_000611,2009-05-01 10:25:34,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,df495798-78d0-4aed-94e3-8a8229e72202,Mother'S Cry
+user_000611,2009-05-01 10:37:15,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,2695a654-f023-4023-8c50-85da82ed6989,Gates Of Hades
+user_000611,2009-05-01 10:38:46,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,b127eb77-82da-4d32-a351-82fe4d3001c0,Face The Devil
+user_000611,2009-05-01 10:42:28,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,1129efd4-d77a-45c6-a972-0fde386f1f42,Ghost Dance
+user_000611,2009-05-01 10:49:25,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,8a09be34-8d30-493a-900c-95e96b01c5ce,Breaking The Spell
+user_000611,2009-05-01 10:54:22,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,1f6a9f33-b7e5-4e2f-8764-23b18695d9c0,Starrider
+user_000611,2009-05-01 10:59:20,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,f21423c0-019e-4d3c-b46c-b68f75d024c9,Non Sei Normale
+user_000611,2009-05-01 11:02:21,90c54d91-a87f-4635-8ef1-877d8a73d7de,Bud Tribe,a8c96bcb-31c3-4b06-8b2f-0681ee6710ef,Non Finir¬Ñ Mai
+user_000611,2009-05-01 11:07:18,89618a45-ff4a-4e5f-942e-3ef93c8c555c,Witchfinder General,910e91d3-e711-4b49-9de4-0caf5c536174,Soviet Invasion
+user_000611,2009-05-01 11:10:38,8e8bce36-51e0-4d10-8be4-19a8931b73b1,Angel Witch,ad561c1a-aee6-465d-b076-7a54b8cb0fc3,Angel Witch
+user_000611,2009-05-01 11:14:02,89618a45-ff4a-4e5f-942e-3ef93c8c555c,Witchfinder General,0172ff90-9b0b-46e1-8ec6-1951643c620f,Rabies
+user_000611,2009-05-01 11:17:37,89618a45-ff4a-4e5f-942e-3ef93c8c555c,Witchfinder General,cbfc2f8c-0c44-4c5e-a684-8f67f984e5f0,R.I.P. (Live)
+user_000611,2009-05-01 11:22:34,89618a45-ff4a-4e5f-942e-3ef93c8c555c,Witchfinder General,5447420a-88fd-4f5c-a293-bda90cbc0f44,Satan'S Children (Live)
+user_000670,2009-05-01 14:39:20,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,ba6dfd38-1945-444f-8bf6-18a41fff9df9,The Collector
+user_000999,2009-05-01 08:07:40,125948ec-7f91-4d1a-8b83-accbf50fae3d,3Oh!3,14d9813a-df8b-4ed2-873d-79f337a7d0aa,Richman
+user_000999,2009-05-01 08:11:04,125948ec-7f91-4d1a-8b83-accbf50fae3d,3Oh!3,14d9813a-df8b-4ed2-873d-79f337a7d0aa,Richman
+user_000999,2009-05-01 08:14:40,125948ec-7f91-4d1a-8b83-accbf50fae3d,3Oh!3,fa78c278-f3c0-4611-b431-ba5b4408f640,Starstrukk
+user_000999,2009-05-01 08:17:56,efef848b-63e4-4323-8ef7-69a48fbdd51d,4 Non Blondes,910a40bb-3b77-48cb-b978-77eae3d0398f,What'S Up
+user_000999,2009-05-01 08:26:14,ba99a190-6065-4930-be3d-55ecc48e365d,Kimya Dawson,25c17104-b424-4fab-af25-793a754fd52f,My Rollercoaster
+user_000999,2009-05-01 08:27:07,c3f28da8-662d-4f09-bdc7-3084bf685930,Iron & Wine,1e21e59e-ae7c-4658-bfe4-1e0c749d19c4,Free Until They Cut Me Down
+user_000999,2009-05-01 08:31:42,8ca01f46-53ac-4af2-8516-55a909c0905e,My Bloody Valentine,9839b527-a36d-4efb-8682-526601be5131,Sometimes
+user_000999,2009-05-01 08:37:01,8996b655-fbad-4018-b430-1bd8fab43235,Crazy Town,7d278e57-0ef3-42ab-becb-cbabb89e09bb,Hurt You So Bad
+user_000999,2009-05-01 08:40:48,678d88b2-87b0-403b-b63d-5da7465aecc3,Led Zeppelin,74b8e963-e49d-4d23-9824-ea72aafe3682,Trampled Under Foot
+user_000999,2009-05-01 08:46:24,2b64e811-cbcd-45f7-b29d-296444cad4f1,M?m,a9e467a9-c5fc-4e83-97d6-23b0b5a7cdf9,Flow Not So Fast Old Mountain Radio
+user_000999,2009-05-01 08:47:52,cc0b7089-c08d-4c10-b6b0-873582c17fd6,System Of A Down,cf58a52b-cbb3-46d3-85f8-706bc46b1598,Sugar
+user_000999,2009-05-01 08:50:28,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,924de9ff-b23a-40ef-ae20-153d42472e6d,Hare Krishna
+user_000999,2009-05-01 08:54:56,3fd5eb03-0511-4ea1-a6cb-67e43cfe5db6,Jarom?r Nohavica,b6fc5dde-4eba-4eb7-bbb6-4886172675b0,Godula
+user_000999,2009-05-01 09:06:23,883ece23-2779-4091-b527-62eb07ee79d4,Goran Bregovi?,ff60cffe-3fdb-42c1-ba86-4e44f809bfb3,Tv Screen (Feat. Iggy Pop)
+user_000999,2009-05-01 09:17:25,9cdbd85a-f274-4087-94a1-3dc93fbaddab,Hurt,dbe4bc90-69c1-4b7b-9282-368bb7c99d47,Gamebox
+user_000999,2009-05-01 09:20:44,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,64a8d59c-95cd-48b3-8da7-64517f850d85,Get Down Make Love
+user_000999,2009-05-01 09:24:04,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,5af47d66-1235-4e26-82f4-e7b35b167d81,The Day The World Went Away (Quiet)
+user_000999,2009-05-01 09:28:25,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,3de83de7-8dfe-4c39-8cae-6ac2140d9881,The Fragile (Keith Hillebrant Mix)
+user_000999,2009-05-01 09:33:36,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,Britney Spears,5a536521-64ae-4a57-8afa-2a4235bc8841,Womanizer
+user_000999,2009-05-01 09:38:34,3fd5eb03-0511-4ea1-a6cb-67e43cfe5db6,Jarom?r Nohavica,646c5a34-230d-49ba-abc3-228762c4a3b0,To Co Nem?m Nem??u Ti D?t
+user_000999,2009-05-01 09:40:43,7527f6c2-d762-4b88-b5e2-9244f1e34c46,Deftones,623c87aa-1402-4910-b26d-9b802cbd72c6,Street Carp
+user_000999,2009-05-01 09:45:44,b23e8a63-8f47-4882-b55b-df2c92ef400e,Interpol,be24bdfe-11d1-4e6d-84e9-b29888f7e520,Obstacle 2
+user_000999,2009-05-01 09:52:30,612231ce-633b-4ebc-99bf-9b14e8d1cb74,Frankmusik,893854c5-1f16-4925-8571-11921aab1383,In Step
+user_000999,2009-05-01 09:56:25,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,0b8146ef-c66e-490b-8dfb-41f8d495d557,Blue American
+user_000999,2009-05-01 09:59:45,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,5cb8cd5c-aad1-42cb-9d1f-e39ad4fdb338,March Of The Fuckheads
+user_000999,2009-05-01 10:04:28,d0d33ef1-fcef-43c3-978e-9fe9e0156d7d,Pogodno,ba8e36eb-2b80-4202-8815-df8a0582ceb3,Go?dziki
+user_000999,2009-05-01 10:06:47,02c1219a-3cb8-4644-abbb-f6129e6909ba,David Draiman,f12206b2-5835-4ce8-a585-7d4fac0ef95e,Forsaken
+user_000999,2009-05-01 10:10:26,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,a60c1fcc-62f7-44e2-94e1-7aed7e5b4b0b,Dub Psychosis
+user_000999,2009-05-01 10:14:05,95e1ead9-4d31-4808-a7ac-32c3614c116b,The Killers,46909ba9-46c7-461e-a2ef-280eacd550e4,Jenny Was A Friend Of Mine
+user_000999,2009-05-01 10:18:09,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,8dcb8ee5-1cc8-49cc-a2fa-2b5d8d514853,Post Blue
+user_000999,2009-05-01 10:21:23,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,3fffc4ec-6cf0-4e4c-b1e5-5c988f07bf3e,24 Ghosts Iii
+user_000999,2009-05-01 10:24:03,d6e0e274-8e19-44ce-b5b2-52c12f8a674a,Led Zeppelin Jam,78b2151d-c4b9-48c0-ab98-33ef776a6a18,Immigrant Song
+user_000999,2009-05-01 10:26:28,d700b3f5-45af-4d02-95ed-57d301bda93e,Mogwai,90d81477-9dba-4864-84d0-f9edab1cbc1a,Sine Wave
+user_000999,2009-05-01 10:31:23,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,Britney Spears,178e452a-ad65-43ed-9962-05c9c97c1a7f,Mmm Papi
+user_000999,2009-05-01 10:33:39,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,3fffc4ec-6cf0-4e4c-b1e5-5c988f07bf3e,24 Ghosts Iii
+user_000999,2009-05-01 10:36:18,e795e03d-b5d5-4a5f-834d-162cfb308a2c,Pj Harvey,08ddb3fb-8f4c-4ea2-adaf-06d7df53e155,This Is Love
+user_000999,2009-05-01 10:40:53,796cca66-9121-491e-80d2-0acbde0d4600,Closterkeller,9e18fa48-2643-4a4e-a044-693e340cb704,Zakl?ta W Marmur
+user_000999,2009-05-01 10:45:28,c29f4522-f710-4bb5-a06b-d436fcc3b2fd,Combichrist,4d5df1a1-eb83-4963-9d3c-e845f86eb8ca,This S*It Will Fcuk You Up
+user_000999,2009-05-01 12:33:44,69b39eab-6577-46a4-a9f5-817839092033,Kasabian,43b2f487-0d08-4acc-a090-35ad408986a7,Shoot The Runner
+user_000999,2009-05-01 12:37:24,5b24fbab-c58f-4c37-a59d-ab232e2d98c4,Danny Elfman,ab56df89-beb6-4521-9254-cbc79e29e492,This Is Halloween
+user_000999,2009-05-01 12:44:11,f467181e-d5e0-4285-b47e-e853dcc89ee7,Ratatat,2d7d6714-8b41-4894-af3a-1cf0a092a7ee,Seventeen Years
+user_000999,2009-05-01 12:48:37,5e94030f-c3c7-4777-a5af-5ecfbfc37bba,Head Automatica,f0286647-6485-4b62-ad34-679145257af3,Beating Heart Baby (Chris Lord-Alge Remix)
+user_000999,2009-05-01 12:54:41,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,2d89ec45-3155-4c45-8a5c-509ed67c8ec0,A Violet Fluid
+user_000999,2009-05-01 12:55:37,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,06d6f9ad-401b-4215-8304-e7af3f3692b4,Wish
+user_000999,2009-05-01 12:59:24,7527f6c2-d762-4b88-b5e2-9244f1e34c46,Deftones,9d1eb0cd-65d6-4a1f-afdd-f87517228227,The Boy'S Republic (Acoustic)
+user_000999,2009-05-01 13:08:37,83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,b56d47b4-e719-46b3-8ee2-b4119b93263c,"Another Brick In The Wall, Part I"
+user_000999,2009-05-01 13:11:47,e7e88ab3-5818-49c3-a8d6-61018237ddbd,Kazik Staszewski,54156dd1-60a5-4be1-8d18-36ddcb970aac,"Odejd?, Gdy Zapieje Kur"
+user_000999,2009-05-01 13:14:51,09ff1fe8-d61c-4b98-bb82-18487c74d7b7,Fr?d?ric Chopin,2d2f68b7-e972-48e6-bab6-44c030fae15a,"Etude In C Minor Op. 10 No. 12 ""Revolutionary"""
+user_000999,2009-05-01 13:17:41,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,Britney Spears,ac7d4117-8037-4efe-880e-56656343941a,Radar
+user_000999,2009-05-01 13:21:31,f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62,T.I.,2267fea2-e288-4fad-8eed-2bb3ad56fb05,What You Know
+user_000999,2009-05-01 13:25:39,650e7db6-b795-4eb5-a702-5ea2fc46c848,Lady Gaga,0810268f-2e52-4f89-86be-42762ea3f6d4,Just Dance
+user_000999,2009-05-01 13:29:45,99acd557-c4e2-4086-9be9-85f57184dadc,O.S.T.R.,290dcfd6-827e-4864-b71a-553c45ba526b,Pocz?tek...
+user_000999,2009-05-01 13:32:40,cc0b7089-c08d-4c10-b6b0-873582c17fd6,System Of A Down,59a05b4b-024f-4f5b-8b88-50d0c89493b0,Storaged
+user_000999,2009-05-01 13:33:59,f5408d6d-08cc-4000-b9b8-b9888e94d972,Jon Lajoie,b540d64d-0717-45dc-bff3-8243b6f7d48f,Show Me Your Genitals
+user_000999,2009-05-01 13:42:37,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,3566e453-8f10-4a45-ac85-2c72eb183ca1,Back In The U.S.S.R.
+user_000999,2009-05-01 13:45:20,3fd5eb03-0511-4ea1-a6cb-67e43cfe5db6,Jarom?r Nohavica,91fdbf1c-a701-466a-ba6b-307b5a60d884,Divoc? Kon?
+user_000999,2009-05-01 13:52:26,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,0e1b4cf7-81f6-4baa-8398-08edb253e07c,"Starfuckers, Inc. (Version C)"
+user_000999,2009-05-01 13:58:32,95e1ead9-4d31-4808-a7ac-32c3614c116b,The Killers,45024040-a343-4141-9bc9-27ef0cc9163d,Somebody Told Me
+user_000999,2009-05-01 14:08:01,125948ec-7f91-4d1a-8b83-accbf50fae3d,3Oh!3,fa78c278-f3c0-4611-b431-ba5b4408f640,Starstrukk
+user_000999,2009-05-01 14:11:06,125948ec-7f91-4d1a-8b83-accbf50fae3d,3Oh!3,14d9813a-df8b-4ed2-873d-79f337a7d0aa,Richman
+user_000999,2009-05-01 14:14:29,125948ec-7f91-4d1a-8b83-accbf50fae3d,3Oh!3,fa78c278-f3c0-4611-b431-ba5b4408f640,Starstrukk
+user_000999,2009-05-01 14:17:34,8c9200b8-8e05-41d5-836e-44a37905560e,Hadouken!,eb5f62c2-b1ab-4076-bbd4-25ccaf4e3dd3,That Boy That Girl
+user_000999,2009-05-01 14:21:13,8c9200b8-8e05-41d5-836e-44a37905560e,Hadouken!,5b1e09e5-5f6f-447f-815b-57607acf6339,Get Smashed Gate Crash
+user_000999,2009-05-01 14:24:32,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,034f67f8-e6da-489a-909a-50e85a489255,Centrefolds
+user_000999,2009-05-01 14:29:30,847e8284-8582-4b0e-9c26-b042a4f49e57,Placebo,034f67f8-e6da-489a-909a-50e85a489255,Centrefolds
+user_000999,2009-05-01 14:34:31,0af78501-5647-4c18-9a0d-66ac8789e13b,Beirut,2348479c-8a16-4f42-a128-cc1b74258251,Nantes
+user_000999,2009-05-01 16:32:22,0af78501-5647-4c18-9a0d-66ac8789e13b,Beirut,f9a04e8d-d423-4671-a5f3-00739d6823ac,Cliquot
+user_000999,2009-05-01 17:00:09,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,Britney Spears,258bc802-8111-4d16-b081-fae0ea6aecba,If U Seek Amy
+user_000999,2009-05-01 17:03:46,95e1ead9-4d31-4808-a7ac-32c3614c116b,The Killers,9391e18a-a0f4-443c-9343-69af2849abd5,Daddy'S Eyes
+user_000999,2009-05-01 17:08:01,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,0339f547-4660-4ef7-a9a9-c61205b43c2f,14 Ghosts Ii
+user_000999,2009-05-01 17:11:42,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,872ef730-6718-4d38-9c71-a52f32879d7f,"Me, I'M Not"
+user_000999,2009-05-01 17:16:34,3fd5eb03-0511-4ea1-a6cb-67e43cfe5db6,Jarom?r Nohavica,86db12e0-d6dc-4ff5-9371-495c945ed169,Pavilon ?.5
+user_000999,2009-05-01 17:19:48,3fd5eb03-0511-4ea1-a6cb-67e43cfe5db6,Jarom?r Nohavica,646c5a34-230d-49ba-abc3-228762c4a3b0,To Co Nem?m Nem??u Ti D?t
+user_000999,2009-05-01 17:23:46,4f8ef4a3-40fa-46b5-8773-97686a8424f4,?dith Piaf,ed22e86e-5cbd-467d-8356-3f0687774bf4,Milord
+user_000999,2009-05-01 17:26:28,a800acf3-ca6c-4617-92cd-138df973404f,Happysad,64d95246-bc5b-4b35-af6d-6278c46f6a4b,Wr?cimy Tu Jeszcze
+user_000999,2009-05-01 17:29:30,a800acf3-ca6c-4617-92cd-138df973404f,Happysad,7234828d-2f37-4417-9f39-e5450f5472f4,Od Kiedy Rop?
+user_000999,2009-05-01 17:35:57,32673e42-5ba2-4528-b3fe-a000a0c606e3,Corey Hart,0cc1e3b6-8b21-4531-87c1-a89bc5337da8,Sunglasses At Night
+user_000999,2009-05-01 17:39:51,d8354b38-e942-4c89-ba93-29323432abc3,30 Seconds To Mars,7ad63a0f-26a3-40ec-a710-ef17eff0f9fe,The Kill
+user_000999,2009-05-01 17:43:43,73e5e69d-3554-40d8-8516-00cb38737a1c,Rihanna,0b4b1b0c-e057-4d8d-9a47-12a97ff6fb3d,Umbrella (Feat. Jay-Z)
+user_000999,2009-05-01 17:48:19,5dfdca28-9ddc-4853-933c-8bc97d87beec,Marilyn Manson,55ee0be9-ae2d-4ca3-a587-40137e7265fb,This Is Halloween
+user_000999,2009-05-01 17:50:22,ab7ebf8c-059f-4071-93b1-dd3ae80d60b2,Metro Station,07ea112f-a000-41e8-9f5b-47d5e81851e6,Shake It
+user_000999,2009-05-01 17:53:22,ab7ebf8c-059f-4071-93b1-dd3ae80d60b2,Metro Station,07ea112f-a000-41e8-9f5b-47d5e81851e6,Shake It
+user_000999,2009-05-01 17:56:39,0509d076-7e31-4f53-bad3-80ee246e23b7,Breathe Carolina,374d1c2e-4f77-4fce-bc9b-055feb8db77b,Put Some Clothes On
+user_000999,2009-05-01 18:03:52,b7ffd2af-418f-4be2-bdd1-22f8b48613da,Nine Inch Nails,3fffc4ec-6cf0-4e4c-b1e5-5c988f07bf3e,24 Ghosts Iii
+user_000999,2009-05-01 18:06:32,3fd5eb03-0511-4ea1-a6cb-67e43cfe5db6,Jarom?r Nohavica,981cace1-1282-47a6-acaf-f488c8cec74a,Pro Malou Lenku
+user_000999,2009-05-01 18:35:22,bb54817c-6829-4ccc-bc58-030abb85c583,Carlos Gardel,127c0f57-342b-4c4e-9d5e-cba8b2f13455,Por Una Cabeza
+user_000999,2009-05-01 18:37:46,e77b7ecf-c417-4124-b255-a3a927bb604e,April March,14b00555-52c0-4760-98b2-e4f64839c367,Chick Habit
